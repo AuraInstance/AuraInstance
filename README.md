@@ -7,6 +7,6 @@ Just for info my main language is german, i know that my grammar isnt very well,
 My complete hobby list is: Football, learning programming python & language japanese, watching animes, cooking and trying to motivate me for gym. So, thats all about me in short.
 
 How you can reach me ?
-📫 Don't know, how about discord: https://discord.gg/zNUDntHk
+📫 Don't know, how about discord: [https://discord.gg/zNUDntHk](https://discord.gg/Yt6mEar5zk)
 
 Lets see what the future brings.
