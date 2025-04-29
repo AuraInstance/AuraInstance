@@ -1,12 +1,42 @@
-Hi, 
-i am @AuraInstance and nice to meet you. How you can see my profile is pretty empty, hmm. The thing is, i want to learn coding python acutally, so it was a good decision to make a GitHub for my future plans/projects.
+# 👋 Hi there, I'm @AuraInstance
 
-So my future plan is being a programmer. I am now 30 years old and had a rough life that made my decisions for life very complicated what i really want. So my hobbies building computers and watching people making softwares was a huge impact into changing myself.
-Just for info my main language is german, i know that my grammar isnt very well, but still thanks for reading. 
+Nice to meet you! As you can see, my GitHub is still a bit empty — but that’s about to change.  
+I'm just getting started with coding, and I’ve made it my mission to learn Python and build exciting things. Creating this GitHub was my first step toward a new future.
 
-My complete hobby list is: Football, learning programming python & language japanese, watching animes, cooking and trying to motivate me for gym. So, thats all about me in short.
+## 🌱 About Me
 
-How you can reach me ?
-📫 Don't know, how about discord: [https://discord.gg/zNUDntHk](https://discord.gg/Yt6mEar5zk)
+💡 I’m 32 years old and finally found my passion after a rough path through life.  
+🛠️ I’ve always loved building PCs and watching others create software — now I want to create my own.  
+🇩🇪 My native language is German, so forgive any grammar slips — I'm doing my best and learning every day!  
 
-Lets see what the future brings.
+## 🎯 Goals & Hobbies
+
+- 🐍 Learn Python programming  
+- 🧠 Study Japanese language  
+- ⚽ Enjoy football  
+- 🍳 Cook delicious meals  
+- 💪 Push myself to go to the gym (still working on it 😅)  
+- 📺 Watch anime and get inspired  
+- 🎮 Gamer at heart | 🦈 Midnight Shark vibes  
+- 🔧 Currently tinkering with 3D printing, automation & monitoring tools  
+
+Let’s see what the future brings. Thanks for stopping by!
+
+---
+
+## 😂 Just for fun: A little dev joke
+
+```python
+# Programmer's relationship status simulator
+class RelationshipStatus:
+    def __init__(self):
+        self.status = "404: Girlfriend not found"
+
+    def update_status(self):
+        try:
+            raise NotImplementedError("Love module not available.")
+        except NotImplementedError as e:
+            print(f"Error: {e}")
+
+dev_life = RelationshipStatus()
+dev_life.update_status()
